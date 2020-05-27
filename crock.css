@@ -8,7 +8,9 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #06181f;
+  /* background: #06181f; */
+  /* background: #1b1b06; */
+  background: #1f0615;
 }
 
 .container {
@@ -26,7 +28,8 @@ body {
 .container .icon path {
   fill: transparent;
   stroke: width 1;
-  stroke: #31e8ff;
+  /* stroke: #31e8ff; */
+  stroke: #ebd834;
 }
 
 .container .icon path {
@@ -51,6 +54,9 @@ body {
   }
   100% {
     stroke-dashoffset: 3120;
-    fill: #31e8ff;
+    /* fill: #31e8ff; */
+    /* fill: #ebd834; */
+    fill: #eb34eb;
   }
 }
+
